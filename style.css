@@ -175,9 +175,10 @@ body {
   padding-left: 300px;
   font: verdana;
   color: rgba(185, 184, 184, 0.822);
-  transform: translate(20%,1100%);
+  transform: translate(36%,1200%);
   font-size: 30px;
   text-transform: lowercase;
+  width: 700px;
   
 
 }
