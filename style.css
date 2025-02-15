@@ -10,8 +10,10 @@
   
   }
 
-
 body {
+  background-color: #0b0b0b;
+}
+.head {
     background-image: url(fonn.jpg);
     background-repeat: no-repeat;
     background-size: 1920px 500px;
@@ -58,6 +60,7 @@ body {
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+    transform: translate(-30%,-40%);
   }
 
 
@@ -71,6 +74,8 @@ body {
   text-align: right;
   line-height: 1.5;
   letter-spacing: 2px;
+  transform: translate(-3%,400%);
+  padding-bottom: 70px;
 
 }
 
@@ -132,48 +137,48 @@ body {
 .fstat {
   padding-left: 300px;
   font: verdana;
-  color: rgb(255, 255, 255);
-  transform: translate(-1%, +30%);
+  color: rgba(185, 184, 184, 0.822);
+  transform: translate(-1%, +50%);
 
-  font-size: 44px;
+  font-size: 36px;
   text-transform: lowercase;
 } 
 
 .fstat1 {
   padding-left: 300px;
   font: verdana;
-  color: rgb(255, 255, 255);
-  transform: translate(-1%, +200%);
-  font-size: 44px;
+  color: rgba(185, 184, 184, 0.822);
+  transform: translate(-1%, +350%);
+  font-size: 36px;
   text-transform: lowercase;
 } 
 
 .fstat2 {
   padding-left: 300px;
   font: verdana;
-  color: rgb(255, 255, 255);
-  transform: translate(-1%, +400%);
-  font-size: 44px;
+  color: rgba(185, 184, 184, 0.822);
+  transform: translate(-1%, +650%);
+  font-size: 36px;
   text-transform: lowercase;
 } 
 
 .fstat3 {
   padding-left: 300px;
   font: verdana;
-  color: rgb(255, 255, 255);
-  transform: translate(-1%, +300%);
-  font-size: 60px;
+  color: rgba(185, 184, 184, 0.822);
+  transform: translate(-1%, +620%);
+  font-size: 50px;
   text-transform: uppercase;
 } 
 
 .fstat3-1 {
   padding-left: 300px;
   font: verdana;
-  color: rgb(255, 255, 255);
-  transform: translate(-1%,380%);
+  color: rgba(185, 184, 184, 0.822);
+  transform: translate(20%,1100%);
   font-size: 30px;
   text-transform: lowercase;
-  text-align:center;
+  
 
 }
 
