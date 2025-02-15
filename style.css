@@ -1,0 +1,203 @@
+.st {
+    font-weight: lighter;
+    text-transform: lowercase;
+    color: rgb(59, 49, 45);
+    font-size: 40px;
+    position: relative;
+    text-shadow: 4px 4px 20px rgb(32, 26, 26);
+    text-align: right;
+    font-family: gabriola
+  
+  }
+
+
+body {
+    background-image: url(fonn.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 500px;
+    background-color: #0b0b0b;
+}
+
+.pr {
+  
+  background-image: url(f1.png);
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+
+}
+
+.pr1 {
+  background-image: url(stats.png);
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+
+
+}
+
+.a {
+  padding-bottom: 800px;
+  font: verdana;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 2px 2px 2px rgb(255, 255, 255);
+  font-size: 48px;
+  text-transform: lowercase;
+  padding-left: 700px;
+
+}
+
+
+
+
+.d {
+    writing-mode: vertical-rl;
+    font: 900 normal 450%/10vh sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    background-image: url("fon.jpg");
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+.f0 {
+  color: white;
+  font: verdana;
+  font-size: 19px;
+  font-style: italic;
+  text-transform: lowercase;
+  text-shadow: 2px 2px 5px rgb(255, 255, 255);
+  text-align: right;
+  line-height: 1.5;
+  letter-spacing: 2px;
+
+}
+
+.fkim {
+  padding-left: 400px;
+  font: verdana;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 2px 2px 4px rgb(255, 255, 255);
+  font-size: 28px;
+  text-transform: lowercase;
+
+}
+
+.fself {
+  padding-left: 624px;
+  font: monospace;
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 26px;
+  
+}
+
+.fself2 {
+  padding-left: 480px;
+  font: monospace;
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 26px;
+  
+}
+
+.fharry {
+  padding-left: 1040px;
+  font: verdana;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 2px 2px 3px rgb(255, 255, 255);
+  font-size: 28px;
+  text-transform: lowercase;
+
+}
+
+.fself3 {
+  padding-left: 550px;
+  font: monospace;
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 27px;
+  text-transform: uppercase;
+  
+}
+
+.fselfcenter {
+  padding-bottom: 500px;
+  text-align: center;
+  font: monospace;
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 40px;
+  text-transform: lowercase;
+  position: relative;
+}
+
+.fstat {
+  padding-left: 300px;
+  font: verdana;
+  color: rgb(255, 255, 255);
+  transform: translate(-1%, +30%);
+
+  font-size: 44px;
+  text-transform: lowercase;
+} 
+
+.fstat1 {
+  padding-left: 300px;
+  font: verdana;
+  color: rgb(255, 255, 255);
+  transform: translate(-1%, +200%);
+  font-size: 44px;
+  text-transform: lowercase;
+} 
+
+.fstat2 {
+  padding-left: 300px;
+  font: verdana;
+  color: rgb(255, 255, 255);
+  transform: translate(-1%, +400%);
+  font-size: 44px;
+  text-transform: lowercase;
+} 
+
+.fstat3 {
+  padding-left: 300px;
+  font: verdana;
+  color: rgb(255, 255, 255);
+  transform: translate(-1%, +300%);
+  font-size: 60px;
+  text-transform: uppercase;
+} 
+
+.fstat3-1 {
+  padding-left: 300px;
+  font: verdana;
+  color: rgb(255, 255, 255);
+  transform: translate(-1%,380%);
+  font-size: 30px;
+  text-transform: lowercase;
+  text-align:center;
+
+}
+
+.pr2 {
+  background-image: url(str2.png);
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+}
+
+.d1 {
+
+  font: 900 normal 450%/10vh sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  background-image: url("bukv.png");
+  background-size: cover;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.pr3 {
+  background-image: url(str3.png);
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+}
